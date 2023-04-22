@@ -561,6 +561,12 @@ footer .bottom-details .bottom_text {
   margin-right: 10px;
 }
 
+.copyright_text{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
 @media (max-width: 900px) {
   footer .content .link-boxes {
     flex-wrap: wrap;
